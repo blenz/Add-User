@@ -10,3 +10,10 @@ Below are some assumptions I made:
 - This would be used on Ubuntu servers.
 - Assigning groups was not important, I would add the ability if needed.
 - Set up the user accounts without a password, user’s themselves can change as needed. If required, I would add the ability in the script.
+
+
+Sample Uses
+
+./newuser.sh john smith
+./newuser.sh john smith 1
+./newuser.sh testfile
