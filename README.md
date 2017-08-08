@@ -15,5 +15,7 @@ Below are some assumptions I made:
 Sample Uses
 
 ./newuser.sh john smith
+
 ./newuser.sh john smith 1
+
 ./newuser.sh testfile
