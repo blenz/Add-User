@@ -12,10 +12,10 @@ Below are some assumptions I made:
 - Set up the user accounts without a password, user’s themselves can change as needed. If required, I would add the ability in the script.
 
 
-Sample Uses
+### Sample Uses
 
-./newuser.sh john smith
+`./newuser.sh john smith`
 
-./newuser.sh john smith 1
+`./newuser.sh john smith 1`
 
-./newuser.sh testfile
+`./newuser.sh testfile`
